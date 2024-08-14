@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maheshkarkii
 - 👀 I’m interested in AI , Data Science And Machine Learning
-- 🌱 I’m currently learning Python libraries
+- 🌱 I’m currently learning Machine learning
 - 📫 How to reach me  Karkimahesh305@gmail.com
 - 😄 Pronouns: He/him
   
