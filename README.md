@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **karkimahesh305@gmail.com**
 
-- ⚡ Fun fact **I like to stay quiet**
+- ⚡ Fun fact **I like to stay quiet **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
